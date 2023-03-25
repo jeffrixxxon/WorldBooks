@@ -2,16 +2,16 @@
 
 ## Для установки введите в терминале:
 
-- > gir clone https://github.com/jeffrixxxon/WorldBooks.git
+> git clone https://github.com/jeffrixxxon/WorldBooks.git
 
-- > pip install -r requirements.txt
+> pip install -r requirements.txt
 
-- > cd .\WorldBooks\WebBooks\
+> cd .\WorldBooks\WebBooks\
 
-- > python .\manage.py makemigrations
+> python .\manage.py makemigrations
 
-- > python .\manage.py migrate
+> python .\manage.py migrate
 
 ## Для запуска сервера используйте команду:
 
-- > python manage.py runserver
+> python manage.py runserver
