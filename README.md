@@ -8,13 +8,18 @@
 </div>
 <div>
 
+    cd .\WorldBooks\
+  
+</div>
+<div>
+
     pip install -r requirements.txt
   
 </div>
 <div>
 
-    cd .\WorldBooks\WebBooks\
-  
+    cd .\WebBooks\
+    
 </div>
 <div>
 
